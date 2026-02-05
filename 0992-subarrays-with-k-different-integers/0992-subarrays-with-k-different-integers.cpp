@@ -1,8 +1,8 @@
 class Solution {
 public:
     int atMostDistinct(vector<int> &arr,int k){
-        vector<int>freq(128,0);
         int n=arr.size(), si=0, ei=0, count=0, subArrayCount=0;
+        vector<int>freq(n+1,0);
 
         while(ei<n){
             if(freq[arr[ei++]]++ == 0) count++;
