@@ -8,8 +8,8 @@ public:
         int ei = s.size() - 1;
 
         while (si < ei) {
-            while (!isalnum(s[si])) si++;
-            while (!isalnum(s[ei])) ei--;
+            while (si < ei && !isalnum(s[si])) si++;
+            while (si < ei && !isalnum(s[ei])) ei--;
 
             if (tolower(s[si]) != tolower(s[ei]))
                 return false;
