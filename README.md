@@ -34,4 +34,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Meher450/DSA/tree/main/0567-permutation-in-string/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Meher450/DSA/tree/main/0204-count-primes/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Meher450/DSA/tree/main/0204-count-primes/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Meher450/DSA/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Meher450/DSA/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
