@@ -46,6 +46,7 @@
 | [0015-3sum](https://github.com/Meher450/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Meher450/DSA/tree/main/0018-4sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Meher450/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/Meher450/DSA/tree/main/0078-subsets/) | Medium |
 | [0204-count-primes](https://github.com/Meher450/DSA/tree/main/0204-count-primes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Meher450/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Meher450/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -80,6 +81,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Meher450/DSA/tree/main/0078-subsets/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Meher450/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -90,4 +92,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Meher450/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Meher450/DSA/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
