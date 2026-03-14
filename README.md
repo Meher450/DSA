@@ -46,6 +46,7 @@
 | [0015-3sum](https://github.com/Meher450/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Meher450/DSA/tree/main/0018-4sum/) | Medium |
 | [0046-permutations](https://github.com/Meher450/DSA/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Meher450/DSA/tree/main/0051-n-queens/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Meher450/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Meher450/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Meher450/DSA/tree/main/0090-subsets-ii/) | Medium |
@@ -99,6 +100,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Meher450/DSA/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Meher450/DSA/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Meher450/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Meher450/DSA/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
