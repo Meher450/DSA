@@ -47,6 +47,7 @@
 | [0018-4sum](https://github.com/Meher450/DSA/tree/main/0018-4sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Meher450/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Meher450/DSA/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Meher450/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0204-count-primes](https://github.com/Meher450/DSA/tree/main/0204-count-primes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Meher450/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Meher450/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -82,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Meher450/DSA/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Meher450/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Meher450/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -96,4 +98,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Meher450/DSA/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Meher450/DSA/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
