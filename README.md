@@ -33,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Meher450/DSA/tree/main/0001-two-sum/) | Easy |
+| [0037-sudoku-solver](https://github.com/Meher450/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Meher450/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Meher450/DSA/tree/main/0567-permutation-in-string/) | Medium |
 ## Sliding Window
@@ -45,6 +46,7 @@
 | [0001-two-sum](https://github.com/Meher450/DSA/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Meher450/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Meher450/DSA/tree/main/0018-4sum/) | Medium |
+| [0037-sudoku-solver](https://github.com/Meher450/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/Meher450/DSA/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Meher450/DSA/tree/main/0051-n-queens/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Meher450/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -75,6 +77,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Meher450/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Meher450/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Meher450/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Divide and Conquer
@@ -99,6 +102,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Meher450/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/Meher450/DSA/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Meher450/DSA/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Meher450/DSA/tree/main/0052-n-queens-ii/) | Hard |
