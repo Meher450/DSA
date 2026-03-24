@@ -1,28 +1,23 @@
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
-
-        // Step 1: Number of elements
-        int n = nums.size();
-
-        // Step 2: DP array
-        // dp[i] = LIS length ending at index i
-        vector<int> dp(n, 1);
-
-        // Step 3: Fill DP array
-        for (int i = 0; i < n; i++) {
-
-            // Check all previous elements
-            for (int j = 0; j < i; j++) {
-
-                // If nums[i] can extend LIS ending at j
-                if (nums[i] > nums[j]) {
-                    dp[i] = max(dp[i], dp[j] + 1);
+        vector<int>tails;
+        for(int num:nums){
+            int left=0,right=tails.size();
+            while(left<right){
+                int mid=left+(right-left)/2;
+                if(tails[mid]<num){
+                    left=mid+1;
+                }else{
+                    right=mid;
                 }
             }
+            if(left==tails.size()){
+                tails.push_back(num);
+            }else{
+                tails[left]=num;
+            }
         }
-
-        // Step 4: The answer is the maximum value in dp[]
-        return *max_element(dp.begin(), dp.end());
+        return tails.size();
     }
 };
