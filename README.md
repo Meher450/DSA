@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Meher450/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Meher450/DSA/tree/main/0018-4sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Meher450/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/Meher450/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Meher450/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Meher450/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -24,6 +25,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Meher450/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Meher450/DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -47,6 +49,7 @@
 | [0015-3sum](https://github.com/Meher450/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Meher450/DSA/tree/main/0018-4sum/) | Medium |
 | [0037-sudoku-solver](https://github.com/Meher450/DSA/tree/main/0037-sudoku-solver/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Meher450/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Meher450/DSA/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Meher450/DSA/tree/main/0051-n-queens/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Meher450/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -108,4 +111,12 @@
 | [0052-n-queens-ii](https://github.com/Meher450/DSA/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Meher450/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Meher450/DSA/tree/main/0090-subsets-ii/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Meher450/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Meher450/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
