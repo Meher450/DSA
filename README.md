@@ -58,6 +58,7 @@
 | [0204-count-primes](https://github.com/Meher450/DSA/tree/main/0204-count-primes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Meher450/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Meher450/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Meher450/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Meher450/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Meher450/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Meher450/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Meher450/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Meher450/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Meher450/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0300-longest-increasing-subsequence](https://github.com/Meher450/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
