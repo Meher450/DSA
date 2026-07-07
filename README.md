@@ -37,6 +37,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Meher450/DSA/tree/main/0001-two-sum/) | Easy |
 | [0037-sudoku-solver](https://github.com/Meher450/DSA/tree/main/0037-sudoku-solver/) | Hard |
+| [0217-contains-duplicate](https://github.com/Meher450/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Meher450/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Meher450/DSA/tree/main/0567-permutation-in-string/) | Medium |
 ## Sliding Window
@@ -58,6 +59,7 @@
 | [0078-subsets](https://github.com/Meher450/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Meher450/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0204-count-primes](https://github.com/Meher450/DSA/tree/main/0204-count-primes/) | Medium |
+| [0217-contains-duplicate](https://github.com/Meher450/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Meher450/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Meher450/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Meher450/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -104,6 +106,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Meher450/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Meher450/DSA/tree/main/0018-4sum/) | Medium |
+| [0217-contains-duplicate](https://github.com/Meher450/DSA/tree/main/0217-contains-duplicate/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
