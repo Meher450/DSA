@@ -65,6 +65,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Meher450/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Meher450/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Meher450/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/Meher450/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +112,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Meher450/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1991-find-the-middle-index-in-array](https://github.com/Meher450/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
