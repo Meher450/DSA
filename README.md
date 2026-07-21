@@ -60,6 +60,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Meher450/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Meher450/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Meher450/DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/Meher450/DSA/tree/main/0136-single-number/) | Easy |
 | [0204-count-primes](https://github.com/Meher450/DSA/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/Meher450/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Meher450/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -105,6 +106,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/Meher450/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Meher450/DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/Meher450/DSA/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Meher450/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
