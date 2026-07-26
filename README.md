@@ -52,6 +52,7 @@
 | [0001-two-sum](https://github.com/Meher450/DSA/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Meher450/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Meher450/DSA/tree/main/0018-4sum/) | Medium |
+| [0035-search-insert-position](https://github.com/Meher450/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/Meher450/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Meher450/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Meher450/DSA/tree/main/0046-permutations/) | Medium |
@@ -88,6 +89,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Meher450/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Meher450/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Meher450/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Meher450/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
