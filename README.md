@@ -92,6 +92,7 @@
 | [0035-search-insert-position](https://github.com/Meher450/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Meher450/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Meher450/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0278-first-bad-version](https://github.com/Meher450/DSA/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Meher450/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Meher450/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/Meher450/DSA/tree/main/0704-binary-search/) | Easy |
@@ -146,4 +147,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Meher450/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Meher450/DSA/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
