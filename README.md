@@ -77,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Meher450/DSA/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/Meher450/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0204-count-primes](https://github.com/Meher450/DSA/tree/main/0204-count-primes/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Meher450/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Meher450/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Meher450/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Meher450/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/Meher450/DSA/tree/main/0278-first-bad-version/) | Easy |
