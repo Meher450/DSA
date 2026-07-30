@@ -153,4 +153,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Meher450/DSA/tree/main/0278-first-bad-version/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Meher450/DSA/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
