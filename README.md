@@ -57,6 +57,7 @@
 | [0042-trapping-rain-water](https://github.com/Meher450/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Meher450/DSA/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Meher450/DSA/tree/main/0051-n-queens/) | Hard |
+| [0056-merge-intervals](https://github.com/Meher450/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Meher450/DSA/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Meher450/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Meher450/DSA/tree/main/0078-subsets/) | Medium |
@@ -120,6 +121,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Meher450/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Meher450/DSA/tree/main/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/Meher450/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/Meher450/DSA/tree/main/0217-contains-duplicate/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -157,4 +159,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Meher450/DSA/tree/main/0175-combine-two-tables/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Meher450/DSA/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
