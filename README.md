@@ -30,6 +30,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Meher450/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Meher450/DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Meher450/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
@@ -57,6 +58,7 @@
 | [0042-trapping-rain-water](https://github.com/Meher450/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Meher450/DSA/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Meher450/DSA/tree/main/0051-n-queens/) | Hard |
+| [0054-spiral-matrix](https://github.com/Meher450/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Meher450/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Meher450/DSA/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Meher450/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -103,6 +105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Meher450/DSA/tree/main/0037-sudoku-solver/) | Hard |
+| [0054-spiral-matrix](https://github.com/Meher450/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Meher450/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Meher450/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Divide and Conquer
