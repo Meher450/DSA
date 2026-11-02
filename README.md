@@ -72,6 +72,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Meher450/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Meher450/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Meher450/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Meher450/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Meher450/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Meher450/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Meher450/DSA/tree/main/0704-binary-search/) | Easy |
@@ -83,6 +84,7 @@
 | [0066-plus-one](https://github.com/Meher450/DSA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Meher450/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0204-count-primes](https://github.com/Meher450/DSA/tree/main/0204-count-primes/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Meher450/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Meher450/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
