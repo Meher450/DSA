@@ -13,6 +13,7 @@
 | [0344-reverse-string](https://github.com/Meher450/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/Meher450/DSA/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Meher450/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Meher450/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Meher450/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Meher450/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Meher450/DSA/tree/main/0704-binary-search/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Meher450/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Meher450/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Meher450/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Math
@@ -105,6 +107,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Meher450/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Meher450/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/Meher450/DSA/tree/main/0704-binary-search/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Meher450/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +134,7 @@
 | [0056-merge-intervals](https://github.com/Meher450/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/Meher450/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Meher450/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Meher450/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
