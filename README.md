@@ -83,6 +83,7 @@
 | [1929-concatenation-of-array](https://github.com/Meher450/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Meher450/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/Meher450/DSA/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Meher450/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@
 | [0204-count-primes](https://github.com/Meher450/DSA/tree/main/0204-count-primes/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Meher450/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Meher450/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Meher450/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
