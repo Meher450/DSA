@@ -80,6 +80,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Meher450/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Meher450/DSA/tree/main/0704-binary-search/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Meher450/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/Meher450/DSA/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Meher450/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Meher450/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/Meher450/DSA/tree/main/2747-count-zero-request-servers/) | Medium |
@@ -181,4 +182,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Meher450/DSA/tree/main/0056-merge-intervals/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1882-process-tasks-using-servers](https://github.com/Meher450/DSA/tree/main/1882-process-tasks-using-servers/) | Medium |
 <!---LeetCode Topics End-->
