@@ -87,6 +87,7 @@
 | [1929-concatenation-of-array](https://github.com/Meher450/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Meher450/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/Meher450/DSA/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Meher450/DSA/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Meher450/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -166,6 +167,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Meher450/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/Meher450/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Meher450/DSA/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
